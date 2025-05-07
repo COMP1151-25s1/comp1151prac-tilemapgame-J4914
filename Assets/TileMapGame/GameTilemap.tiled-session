@@ -1,0 +1,59 @@
+{
+    "activeFile": "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown_Map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown2.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown_Map.tmx": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -22.333333333333343,
+                "y": -25.666666666666657
+            }
+        },
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown_Sheet.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown_SpriteSheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/Tiny_TownTileMap.tmx": {
+            "scale": 1.7960937499999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 56.78990865593738,
+                "y": -20.600260983036094
+            }
+        },
+        "TinyTown_Sheet.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "Tiny_TownTileMap.tmx": {
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 293.5,
+                "y": -55.75
+            }
+        }
+    },
+    "openFiles": [
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown2.tsx",
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown_Map.tmx"
+    ],
+    "recentFiles": [
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown2.tsx",
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown_Map.tmx",
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown_SpriteSheet.tsx",
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/Tiny_TownTileMap.tmx",
+        "TinyTown_Sheet.tsx",
+        "Tiny_TownTileMap.tmx"
+    ]
+}
