@@ -1,16 +1,37 @@
 {
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
     "activeFile": "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown_Map.tmx",
     "expandedProjectPaths": [
         "."
     ],
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/Physics_Test.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2.6666666666666856,
+                "y": 48
+            }
+        },
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/Pixel_Platfomer.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/Pixel_Platformer.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 5.5
+        },
         "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown2.tsx": {
             "scaleInDock": 2,
-            "scaleInEditor": 1
+            "scaleInEditor": 2
         },
         "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown_Map.tmx": {
             "scale": 3,
-            "selectedLayer": 1,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": -22.333333333333343,
                 "y": -25.666666666666657
@@ -44,16 +65,30 @@
             }
         }
     },
+    "last.imagePath": "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
     "openFiles": [
         "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown2.tsx",
         "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown_Map.tmx"
     ],
+    "project": "",
     "recentFiles": [
         "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown2.tsx",
         "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown_Map.tmx",
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/Pixel_Platformer.tsx",
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/Physics_Test.tmx",
+        "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/Pixel_Platfomer.tsx",
         "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/TinyTown_SpriteSheet.tsx",
         "C:/Users/49148265/Documents/comp1151prac-tilemapgame-J4914/Assets/Tiles/TileMapGame/Tiny_TownTileMap.tmx",
         "TinyTown_Sheet.tsx",
         "Tiny_TownTileMap.tmx"
-    ]
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
 }
